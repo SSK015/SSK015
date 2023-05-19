@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 [My static blog here](https://ssk015.github.io/) 
 - 🤔 [My dynamic blog here](https://pochengqiru.cn/)
 - 📫 How to reach me: Email 18252677381@163.com
-- ⚡ Fun fact: C++ programming.
+- ⚡ Interests: C++ programming, animation, literature.
 
 <div align="center">
     
