@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently pursuing my bachelor's degree in HUST, Wuhan, China. Expected to graduate in 2025.
+- 🔭 I’m currently a bachelor pursuing his bachelor's degree in HUST, Wuhan, China. Expected to graduate in 2025.
 - 🌱 I’m currently learning Parallel computing, Disaggregated memory systems and Database systems.
 - 👯 [My static blog here](https://ssk015.github.io/) 
 - 🤔 [My dynamic blog here](https://pochengqiru.cn/)
