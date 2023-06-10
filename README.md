@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - 🤔 [My dynamic blog here](https://pochengqiru.cn/)
 - 📫 How to reach me: Email 18252677381@163.com
 - ⚡ Interests: C++ programming, animation, literature.
+- 📚 Research Intern: [HUST](https://hust.edu.cn/) · CGCL · *Jan.2023-now*
+- 👯 Collaborate in: [HUST](https://hust.edu.cn/) · heptagon · *2022-now*
 
 <div align="center">
     
