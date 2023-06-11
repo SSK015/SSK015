@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Parallel computing, Disaggregated memory systems and Database systems.
 - 👯 [My static blog here](https://ssk015.github.io/) 
 - 🤔 [My dynamic blog here](https://pochengqiru.cn/)
-- 📫 How to reach me: Email 18252677381@163.com
+- 📫 How to reach me: Email 18252677381@163.com · luotianyi@hust.edu.cn
 - ⚡ Interests: C++ programming, animation, literature.
 - 📚 Research Intern: [HUST](https://hust.edu.cn/) · [CGCL](http://grid.hust.edu.cn/) · *Jan.2023-now*
 - 👯 Collaborate in: [HUST](https://hust.edu.cn/) · [heptagon](https://github.com/heptagonhust) · *2022-now*
