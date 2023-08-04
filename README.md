@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a bachelor pursuing his bachelor's degree in HUST, Wuhan, China. Expected to graduate in 2025.
 - 🌱 I’m currently learning Parallel computing, Disaggregated memory systems and Database systems.
 - 🤔 I’m recently learning typescript.
+- [![My Skills](https://skillicons.dev/icons?i=cpp,python,typescript,javascript,fortran,latex,matlab)](https://skillicons.dev)
 - 👯 [My static blog here](https://ssk015.github.io/) <!-- - 🤔 [My dynamic blog here](https://pochengqiru.cn/)-->
 - 📫 How to reach me: Email 18252677381@163.com · luotianyi@hust.edu.cn
 - ⚡ Interests: C++ programming, animation, literature.
