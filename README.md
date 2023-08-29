@@ -23,14 +23,14 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently pursuing my bachelor's degree in HUST(Huazhong University of Science and Technology), Wuhan, China. Expected to graduate in 2025.
-- 🌱 I’m currently learning Parallel computing, Disaggregated memory systems and Database systems.
+- 🌱 I’m currently learning **Parallel computing**, **Disaggregated memory systems** and **Database systems**.
 - 🤔 I’m recently learning typescript and some other programming languages.
 - [![My Skills](https://skillicons.dev/icons?i=cpp,python,typescript,javascript,fortran,latex,matlab)](https://skillicons.dev)
 - 👯 [My static blog here](https://ssk015.github.io/) <!-- - 🤔 [My dynamic blog here](https://pochengqiru.cn/)-->
-- 📫 How to reach me: Email 18252677381@163.com · luotianyi@hust.edu.cn
-- ⚡ Interests: C++ programming, animation, literature. I'm looking forward to work on Compute Arch, Storage systems.
-- 📚 Research Intern: [HUST](https://hust.edu.cn/) · [CGCL](http://grid.hust.edu.cn/) · *Jan.2023-now*
-- 👯 Collaborate in: [HUST](https://hust.edu.cn/) · [heptagon](https://github.com/heptagonhust) · *2022-now*
+- 📫 How to reach me: Email **18252677381@163.com** · **luotianyi@hust.edu.cn**
+- ⚡ Interests: C++ programming, animation, literature. I'm looking forward to work on **Compute Arch**, **Storage systems**.
+- 📚 Research Intern: [**HUST**](https://hust.edu.cn/) · [**CGCL**](http://grid.hust.edu.cn/) · *Jan.2023-now*
+- 👯 Collaborate in: [**HUST**](https://hust.edu.cn/) · [**Heptagon**](https://github.com/heptagonhust) · *2022-now*
 
 <div align="center">
 
