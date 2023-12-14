@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 - ⚡ Interests: Swimming, ACG music(e.g. Vocaloid), Literature and CS-related knowledge. I'm looking forward to work on **Computer Systems**.
 - 📚 Research Intern: [**HUST**](https://hust.edu.cn/) · [**CGCL**](http://grid.hust.edu.cn/) · *Jan.2023-now* Working on database index.
 - 👯 Collaborate in: [**HUST**](https://hust.edu.cn/) · [**Heptagon**](https://github.com/heptagonhust) · *2022-now* Competing in several HPC-realted competitions(also known as SCC), like ASC.
+- Others: My Github avatar comes from a song titled "Umiyuri Kaiteitan" sang by Hatsune Miku, composed by nbuna.
 
 <div align="center">
 
