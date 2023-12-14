@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 - 👯 [My static blog here](https://ssk015.github.io/) <!-- - 🤔 [My dynamic blog here](https://pochengqiru.cn/)-->
 - 📫 How to reach me: Email **18252677381@163.com** · **ywxia@hust.edu.cn** · **yenwenshare@gmail.com**
 - ⚡ Interests: Swimming, ACG music(e.g. Vocaloid), Literature and CS-related knowledge. I'm looking forward to work on **Computer Systems**.
-- 📚 Research Intern: [**HUST**](https://hust.edu.cn/) · [**CGCL**](http://grid.hust.edu.cn/) · *Jan.2023-now* Working on database index.
-- 👯 Collaborate in: [**HUST**](https://hust.edu.cn/) · [**Heptagon**](https://github.com/heptagonhust) · *2022-now* Competing in several HPC-realted competitions(also known as SCC), like ASC.
+- 📚 Research Intern: [**HUST**](https://hust.edu.cn/) · [**CGCL**](http://grid.hust.edu.cn/) · *Jan.2023-now*. Working on database index.
+- 👯 Collaborate in: [**HUST**](https://hust.edu.cn/) · [**Heptagon**](https://github.com/heptagonhust) · *2022-now*. Competing in several HPC-realted competitions(also known as SCC), like ASC.
 - Others: My Github avatar comes from a song titled "Umiyuri Kaiteitan" sang by Hatsune Miku, composed by nbuna.
 
 <div align="center">
