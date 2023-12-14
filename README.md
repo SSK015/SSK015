@@ -22,15 +22,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently pursuing my bachelor's degree in HUST(Huazhong University of Science and Technology), Wuhan, China. Expected to graduate in 2025.
-- 🌱 I’m currently learning **Parallel computing**, **Disaggregated memory systems** and **Database systems**.
-- 🤔 I’m recently learning typescript and some other programming languages.
+- 🔭 An undergraduate student pursuing bachelor's degree in HUST(Huazhong University of Science and Technology), Wuhan, China. Enrolled in 2021, I am expected to graduate in 2025, may be planning to look for CS PHD positions.
+- 🌱 Learning **Parallel computing**, **Disaggregated memory systems**, **Database systems** and other interesting things about **Computer Systems**.
+- 🤔 Recently learning rust, typescript and some other programming languages.
 - [![My Skills](https://skillicons.dev/icons?i=cpp,python,typescript,javascript,fortran,latex,matlab,tailwind)](https://skillicons.dev)
 - 👯 [My static blog here](https://ssk015.github.io/) <!-- - 🤔 [My dynamic blog here](https://pochengqiru.cn/)-->
 - 📫 How to reach me: Email **18252677381@163.com** · **ywxia@hust.edu.cn** · **yenwenshare@gmail.com**
-- ⚡ Interests: C++ programming, animation, literature. I'm looking forward to work on **Compute Arch**, **Storage systems**.
-- 📚 Research Intern: [**HUST**](https://hust.edu.cn/) · [**CGCL**](http://grid.hust.edu.cn/) · *Jan.2023-now*
-- 👯 Collaborate in: [**HUST**](https://hust.edu.cn/) · [**Heptagon**](https://github.com/heptagonhust) · *2022-now*
+- ⚡ Interests: Swimming, ACG music(e.g. Vocaloid), Literature and CS-related knowledge. I'm looking forward to work on **Computer Systems**.
+- 📚 Research Intern: [**HUST**](https://hust.edu.cn/) · [**CGCL**](http://grid.hust.edu.cn/) · *Jan.2023-now* Working on database index.
+- 👯 Collaborate in: [**HUST**](https://hust.edu.cn/) · [**Heptagon**](https://github.com/heptagonhust) · *2022-now* Competing in several HPC-realted competitions(also known as SCC), like ASC.
 
 <div align="center">
 
