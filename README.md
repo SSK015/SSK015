@@ -22,15 +22,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 An undergraduate student pursuing bachelor's degree in HUST(Huazhong University of Science and Technology), Wuhan, China. Enrolled in 2021, I am expected to graduate in 2025, may be planning to look for CS PHD positions.
+- 🔭 An undergraduate student pursuing bachelor's degree in HUST(Huazhong University of Science and Technology), Wuhan, China. Enrolled in 2021, I am expected to graduate in 2025, ready for CS PHD position.
 - 🌱 Learning **Parallel computing**, **Disaggregated memory systems**, **Database systems** and other interesting things about **Computer Systems**.
 - 🤔 Recently learning rust, typescript and some other programming languages.
 - [![My Skills](https://skillicons.dev/icons?i=cpp,python,typescript,javascript,fortran,latex,matlab,tailwind)](https://skillicons.dev)
 - 👯 [My static blog here](https://ssk015.github.io/) <!-- - 🤔 [My dynamic blog here](https://pochengqiru.cn/)-->
 - 📫 How to reach me: Email **18252677381@163.com** · **ywxia@hust.edu.cn** · **yenwenshare@gmail.com**
-- ⚡ Interests: Swimming, Music(e.g. Vocaloid and Chinese Rocks(CuiJian, Zhang Chu..)), Literature and CS-related knowledge. I'm looking forward to work on **Computer Systems**.
-- 📚 Research Intern: [**HUST**](https://hust.edu.cn/) · [**CGCL**](http://grid.hust.edu.cn/) · *Jan.2023-now*. Working on database index.
-- 📚 Research Intern: [**ICT@CAS**](http://www.ict.ac.cn/) · *Mar.2024-now*.
+- ⚡ Interests: Swimming, Music(e.g. Vocaloid and Chinese Rocks(CuiJian, Zhang Chu..)), Literature and CS-related knowledge. I'm working on **Computer Systems**.
+- 📚 Research Intern: [**HUST**](https://hust.edu.cn/) · [**CGCL**](http://grid.hust.edu.cn/) · *Jan.2023-July.2024*. Working on database index.
+- 📚 Research Intern: [**ICT@CAS**](http://www.ict.ac.cn/) · *Since Mar.2024*. Working on Far Memory Runtime Systems. 
+- 📚 Guest Student @ [**ICT@CAS**](http://www.ict.ac.cn/) · *Since Aug.2024*.
 - 👯 Collaborate in: [**HUST**](https://hust.edu.cn/) · [**Heptagon**](https://github.com/heptagonhust) · *2022-now*. Competing in several HPC-realted competitions(also known as SCC), like ASC.
 - Others: My Github avatar comes from a song titled ["Umiyuri Kaiteitan"](https://www.youtube.com/watch?v=7JANm3jOb2k) sang by Hatsune Miku, composed by nbuna.
 
