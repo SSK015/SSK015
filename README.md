@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 An undergraduate student pursuing bachelor's degree in HUST(Huazhong University of Science and Technology), Wuhan, China. Enrolled in 2021, I am expected to graduate in 2025.
-- 💬 Incoming Phd student @ [**ICT@CAS**](http://www.ict.ac.cn/), 25Fall.
+- 💬 Incoming Phd student @ [**UCAS**], 25Fall.
 - 🌱 Learning **Parallel computing**, **Disaggregated memory systems**, **Database systems** and other interesting things about **Computer Systems**.
 - 🤔 Recently learning rust, typescript and some other programming languages.
 - [![My Skills](https://skillicons.dev/icons?i=cpp,python,typescript,javascript,fortran,latex,matlab,tailwind)](https://skillicons.dev)
