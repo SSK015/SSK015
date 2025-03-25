@@ -60,4 +60,7 @@ Here are some ideas to get you started:
 </table>
 
 
+### 📊 My WakaTime Coding Stats  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
