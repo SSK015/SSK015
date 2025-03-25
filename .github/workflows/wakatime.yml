@@ -19,5 +19,11 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SECTION_NAME: "time"    # ✅ 只显示 "This Week I Spent My Time On"
-          SHOW_PROJECTS: "false" # 🚫 禁用 Projects
+          SHOW_UPDATED_DATE: "true"
+          SHOW_TOTAL: "false"
+          SHOW_LANGUAGE: "false"
+          SHOW_OS: "false"
+          SHOW_TIMEZONE: "false"
+          SHOW_COMMIT: "false"
+          SHOW_PROJECTS: "false"  # 🚫 不显示 Projects
+          SECTION_NAME: "coding"   # ✅ 仅显示 "This Week I Spent My Time On"
