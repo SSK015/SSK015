@@ -26,3 +26,4 @@ jobs:
           SHOW_TIMEZONE: "true"
           SHOW_COMMIT: "false"
           SHOW_PROJECTS: "false"
+          SHOW_LINES_OF_CODE: "false"
