@@ -27,4 +27,5 @@ jobs:
           SHOW_PROJECTS: "false"
           SHOW_LINES_OF_CODE: "false"
           SHOW_DAYS_OF_WEEK: "true"
+          SHOW_LOC_CHART: "false"
           
