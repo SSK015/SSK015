@@ -96,14 +96,13 @@ Sunday                   100 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     24 mins             ██████████████░░░░░░░░░░░   55.19 % 
-Other                    20 mins             ███████████░░░░░░░░░░░░░░   44.81 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   45 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    45 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -119,7 +118,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/05/2025 12:32:04 UTC
+ Last Updated on 26/05/2025 01:23:22 UTC
 <!--END_SECTION:waka-->
 
 
