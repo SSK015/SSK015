@@ -69,8 +69,6 @@ Here are some ideas to get you started:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 87 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 47 Public Repositories 
@@ -118,7 +116,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/05/2025 12:36:36 UTC
+ Last Updated on 29/05/2025 01:21:49 UTC
 <!--END_SECTION:waka-->
 
 
