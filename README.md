@@ -96,13 +96,15 @@ Sunday                   100 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Makefile                 16 mins             █████████████████░░░░░░░░   67.29 % 
+Markdown                 6 mins              ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   25 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    25 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -118,7 +120,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/05/2025 12:35:40 UTC
+ Last Updated on 30/05/2025 01:19:59 UTC
 <!--END_SECTION:waka-->
 
 
