@@ -63,11 +63,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-187%20hrs%2011%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 87 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -120,7 +122,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/06/2025 01:26:14 UTC
+ Last Updated on 16/06/2025 12:37:32 UTC
 <!--END_SECTION:waka-->
 
 
