@@ -61,15 +61,13 @@ Here are some ideas to get you started:
 
 ### 📊 My WakaTime Coding Stats  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 87 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -96,14 +94,14 @@ Sunday                   100 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 20 mins       █████████████████████████   100.00 % 
+Markdown                 4 hrs 22 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 20 mins       █████████████████████████   100.00 % 
+Cursor                   4 hrs 22 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      4 hrs 4 mins        ███████████████████████░░   93.95 % 
-Windows                  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+WSL                      4 hrs 6 mins        ████████████████████████░   94.00 % 
+Windows                  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -119,7 +117,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/06/2025 12:38:12 UTC
+ Last Updated on 24/06/2025 01:24:32 UTC
 <!--END_SECTION:waka-->
 
 
