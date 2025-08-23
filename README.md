@@ -61,13 +61,15 @@ Here are some ideas to get you started:
 
 ### 📊 My WakaTime Coding Stats  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-414%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-416%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 140 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -122,7 +124,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2025 01:16:40 UTC
+ Last Updated on 23/08/2025 12:32:32 UTC
 <!--END_SECTION:waka-->
 
 
