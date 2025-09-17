@@ -61,15 +61,11 @@ Here are some ideas to get you started:
 
 ### 📊 My WakaTime Coding Stats  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%2056%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 160 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -77,35 +73,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 0 Private Repositories 
  > 
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   215 commits         ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
-Tuesday                  160 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-Wednesday                63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-Thursday                 69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Friday                   213 commits         ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-Saturday                 70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Sunday                   100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-C++                      1 hr 43 mins        ████████████████████████░   97.57 % 
-C                        2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-
-🔥 Editors: 
-Cursor                   1 hr 45 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    1 hr 45 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -119,7 +86,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2025 12:35:36 UTC
+ Last Updated on 17/09/2025 01:14:32 UTC
 <!--END_SECTION:waka-->
 
 
