@@ -59,13 +59,15 @@ Here are some ideas to get you started:
 
 ### 📊 My WakaTime Coding Stats  
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-571%20hrs%2039%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 199 Contributions in the Year 2025
+> 🏆 204 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,13 +78,13 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   215 commits         ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
-Tuesday                  160 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+Monday                   216 commits         ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
+Tuesday                  160 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
 Wednesday                63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-Thursday                 69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-Friday                   213 commits         ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
+Thursday                 69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Friday                   213 commits         ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
 Saturday                 73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-Sunday                   100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Sunday                   100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
 ```
 
 
@@ -120,7 +122,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2025 01:23:29 UTC
+ Last Updated on 03/11/2025 12:39:12 UTC
 <!--END_SECTION:waka-->
 
 
