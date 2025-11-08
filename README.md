@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 ### 📊 My WakaTime Coding Stats  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-576%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-576%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -122,7 +122,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/11/2025 01:16:59 UTC
+ Last Updated on 08/11/2025 12:32:50 UTC
 <!--END_SECTION:waka-->
 
 
