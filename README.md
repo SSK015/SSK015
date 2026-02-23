@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I am currently a first-year Phd Student @[**ICT, CAS**], major in computer systems, especially **memory management** and **fault tolerance.**
+- 🔭 I am currently a first-year Phd Student @[**ICT, CAS**], major in computer systems, especially **memory management** and **fault tolerance.** I am lucky to work with professor [**Chenxi Wang**](https://wangchenxi7.github.io/home/).
 - 💬 I got my bachelor degree from CS school of HUST (Huazhong University of Science & Technology) in 2025.6.
 - 🌱 Learning **Parallel computing**, **Operating Systems** and other interesting things about **Computer Systems**.
 - 🤔 Ask me about anything.
