@@ -22,16 +22,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I am currently a first-year Phd Student @[**ICT, CAS**], major in computer systems, especially operating systems and fault tolerance.
+- 🔭 I am currently a first-year Phd Student @[**ICT, CAS**], major in computer systems, especially **memory management** and **fault tolerance.**
 - 💬 I got my bachelor degree from CS school of HUST (Huazhong University of Science & Technology) in 2025.6.
 - 🌱 Learning **Parallel computing**, **Operating Systems** and other interesting things about **Computer Systems**.
-- 🤔 Recently learning rust, some other programming languages.
+- 🤔 Ask me about anything.
 - [![My Skills](https://skillicons.dev/icons?i=cpp,python,typescript,javascript,fortran,latex,matlab,tailwind,rust)](https://skillicons.dev)
 - 👯 [My static blog here](https://ssk015.github.io/) <!-- - 🤔 [My dynamic blog here](https://pochengqiru.cn/)-->
 - 📫 How to reach me: Email **18252677381@163.com** · **xiayanwen25@mails.ucas.ac.cn** · **yenwenshare@gmail.com**
 - ⚡ Interests: Swimming, Music(e.g. Vocaloid and Chinese Rocks(CuiJian, Zhang Chu..)), Literature and CS-related knowledge. I'm working on **Computer Systems**.
-- 📚 Research Intern: [**HUST**](https://hust.edu.cn/) · [**CGCL**](http://grid.hust.edu.cn/) · *Jan.2023-July.2024*. Working on database index.
-- 👯 Collaborate in: [**HUST**](https://hust.edu.cn/) · [**Heptagon**](https://github.com/heptagonhust) · *2022-2025*. Competing in several HPC-realted competitions(also known as SCC), like ASC.
+- 📚 Research Intern: [**HUST**](https://hust.edu.cn/) · [**CGCL**](http://grid.hust.edu.cn/) · *Jan.2023-July.2024*. Worked on database index.
+- 👯 Collaborate in: [**HUST**](https://hust.edu.cn/) · [**Heptagon**](https://github.com/heptagonhust) · *2022-2025*. Competed in several HPC-realted competitions(also known as SCC), like ASC.
 - Others: My Github avatar comes from a song titled ["Umiyuri Kaiteitan"](https://www.youtube.com/watch?v=7JANm3jOb2k) sang by Hatsune Miku, composed by nbuna.
 
 <div align="center">
