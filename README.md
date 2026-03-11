@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 🤔 Ask me about anything.
 - [![My Skills](https://skillicons.dev/icons?i=cpp,python,typescript,javascript,fortran,latex,matlab,tailwind,rust)](https://skillicons.dev)
 - 👯 [My static blog here](https://ssk015.github.io/) <!-- - 🤔 [My dynamic blog here](https://pochengqiru.cn/)-->
-- 📫 How to reach me: Email **18252677381@163.com** · **xiayanwen25@mails.ucas.ac.cn** · **yenwenshare@gmail.com**
+- 📫 How to reach me: Email **18252677381@163.com** · **xiayanwen25@mails.ucas.ac.cn** · **yenwenshare@gmail.com**, wechat 18252677381, QQ 2437103317.
 - ⚡ Interests: Swimming, Music(e.g. Vocaloid and Chinese Rocks(CuiJian, Zhang Chu..)), Literature and CS-related knowledge. I'm working on **Computer Systems**.
 - 📚 Research Intern: [**HUST**](https://hust.edu.cn/) · [**CGCL**](http://grid.hust.edu.cn/) · *Jan.2023-July.2024*. Worked on database index.
 - 👯 Collaborate in: [**HUST**](https://hust.edu.cn/) · [**Heptagon**](https://github.com/heptagonhust) · *2022-2025*. Competed in several HPC-realted competitions(also known as SCC), like ASC.
