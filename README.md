@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 ### 📊 My WakaTime Coding Stats  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C600%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C600%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -94,13 +94,17 @@ Sunday                   103 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   52 mins             ███████████████████░░░░░░   75.19 % 
+Bash                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Markdown                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   1 hr 9 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -116,7 +120,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/07/2026 13:14:57 UTC
+ Last Updated on 13/07/2026 02:33:08 UTC
 <!--END_SECTION:waka-->
 
 
