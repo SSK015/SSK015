@@ -59,7 +59,9 @@ Here are some ideas to get you started:
 
 ### 📊 My WakaTime Coding Stats  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C686%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C335%20hrs%2044%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-528%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -67,7 +69,7 @@ Here are some ideas to get you started:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 263 Contributions in the Year 2026
+> 🏆 264 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -103,6 +105,12 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -116,7 +124,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 14:28:01 UTC
+ Last Updated on 28/07/2026 02:15:32 UTC
 <!--END_SECTION:waka-->
 
 
