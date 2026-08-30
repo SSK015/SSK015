@@ -56,6 +56,8 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
+I once played coding for a long time (before the era of LLM and Agents). 
+
 ### 📊 My WakaTime Coding Stats  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C335%20hrs%2044%20mins-blue?style=flat)
