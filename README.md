@@ -60,9 +60,9 @@ I once played coding for a long time (before the era of LLM and Agents).
 
 ### 📊 My WakaTime Coding Stats  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C346%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C360%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-539%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-553%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -97,42 +97,42 @@ Sunday                   108 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 13 hrs 14 mins      ██████████░░░░░░░░░░░░░░░   38.22 % 
-Python                   10 hrs 10 mins      ███████░░░░░░░░░░░░░░░░░░   29.37 % 
-JavaScript               2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-Bash                     2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-PowerShell               1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Markdown                 18 hrs 58 mins      ███████████░░░░░░░░░░░░░░   44.16 % 
+Python                   13 hrs 41 mins      ████████░░░░░░░░░░░░░░░░░   31.86 % 
+Bash                     2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+JavaScript               2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+PowerShell               1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 
 🔥 Editors: 
-Codex Vscode             24 hrs 25 mins      ██████████████████░░░░░░░   70.44 % 
-Cursor                   10 hrs 14 mins      ███████░░░░░░░░░░░░░░░░░░   29.52 % 
+Codex Vscode             33 hrs 47 mins      ████████████████████░░░░░   78.65 % 
+Cursor                   9 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
 Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  34 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  42 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 hrs 38 mins (99.92%)
+⏱ AI Coding Time: 42 hrs 43 mins (99.45%)
 
-✍️ 16,676 lines written by AI, 40 lines written by hand (99.76% AI-written)
+✍️ 19,304 lines written by AI, 105 lines written by hand (99.46% AI-written)
 
-🔤 38,939,587 Input Tokens, 3,377,690 Output Tokens
+🔤 36,838,423 Input Tokens, 3,739,009 Output Tokens
 
-💵 $540.42 Estimated AI Cost This Week
+💵 $744.75 Estimated AI Cost This Week
 
-🧠 142 AI Sessions, 422 AI Prompts
+🧠 159 AI Sessions, 473 AI Prompts
 
-GPT                      16,288 lines        ████████████████████████░   96.62 % 
-Composer                 570 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+GPT                      18,886 lines        ████████████████████████░   96.90 % 
+Composer                 605 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.76% of written lines came from AI
-📝 Concise Prompter — average 347 characters per prompt
+🤖 AI-Driven — 99.46% of written lines came from AI
+📝 Concise Prompter — average 342 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.25% of changed lines were hand-edited
+🚀 High AI Trust — 0.64% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -148,7 +148,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 16:03:41 UTC
+ Last Updated on 02/09/2026 02:49:22 UTC
 <!--END_SECTION:waka-->
 
 
