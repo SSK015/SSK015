@@ -97,37 +97,19 @@ Sunday                   108 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 12 mins        █████████████████░░░░░░░░   69.23 % 
-Markdown                 32 mins             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             1 hr 34 mins        ██████████████████████░░░   89.77 % 
-Cursor                   10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 44 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 44 mins (99.84%)
-
-✍️ 0 lines written by AI, 46 lines written by hand (0.0% AI-written)
-
-🔤 739,044 Input Tokens, 77,821 Output Tokens
-
-💵 $33.98 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 26 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 300 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -143,7 +125,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 15:50:02 UTC
+ Last Updated on 11/09/2026 02:58:01 UTC
 <!--END_SECTION:waka-->
 
 
