@@ -97,40 +97,40 @@ Sunday                   130 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    22 hrs 35 mins      ██████████░░░░░░░░░░░░░░░   41.29 % 
-CSV                      12 hrs 48 mins      ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-Python                   11 hrs 58 mins      █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
-JavaScript               3 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-HTML                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Other                    21 hrs 30 mins      ████████████░░░░░░░░░░░░░   49.68 % 
+CSV                      12 hrs 48 mins      ███████░░░░░░░░░░░░░░░░░░   29.59 % 
+Python                   5 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+JavaScript               1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+HTML                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🔥 Editors: 
-Cursor                   54 hrs 30 mins      █████████████████████████   99.57 % 
-Codex Vscode             14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Cursor                   43 hrs 5 mins       █████████████████████████   99.57 % 
+Codex Vscode             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 💻 Operating System: 
-Windows                  54 hrs 44 mins      █████████████████████████   100.00 % 
+Windows                  43 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 54 hrs 44 mins (100.0%)
+⏱ AI Coding Time: 43 hrs 16 mins (100.0%)
 
-✍️ 6,042 lines written by AI, 32 lines written by hand (99.47% AI-written)
+✍️ 1,097 lines written by AI, 32 lines written by hand (97.17% AI-written)
 
-🔤 111,900,156 Input Tokens, 20,728,755 Output Tokens
+🔤 80,678,950 Input Tokens, 14,430,093 Output Tokens
 
-💵 $2010.20 Estimated AI Cost This Week
+💵 $1487.33 Estimated AI Cost This Week
 
-🧠 188 AI Sessions, 834 AI Prompts
+🧠 141 AI Sessions, 663 AI Prompts
 
-GPT                      6,049 lines         █████████████████████████   100.00 % 
+GPT                      1,098 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.47% of written lines came from AI
-📝 Concise Prompter — average 157 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.58% of changed lines were hand-edited
+🤖 AI-Driven — 97.17% of written lines came from AI
+📝 Concise Prompter — average 147 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 3.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -146,7 +146,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2026 15:23:04 UTC
+ Last Updated on 25/10/2026 03:09:48 UTC
 <!--END_SECTION:waka-->
 
 
