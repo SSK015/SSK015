@@ -70,7 +70,7 @@ I once played coding for a long time (before the era of LLM and Agents).
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 428 Contributions in the Year 2026
+> 🏆 429 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -81,13 +81,13 @@ I once played coding for a long time (before the era of LLM and Agents).
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   231 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-Tuesday                  243 commits         █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Wednesday                144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Thursday                 99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-Friday                   304 commits         ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
-Saturday                 176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Sunday                   130 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Monday                   232 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+Tuesday                  243 commits         █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+Wednesday                144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Thursday                 99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Friday                   304 commits         ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
+Saturday                 176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Sunday                   130 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
 ```
 
 
@@ -97,40 +97,41 @@ Sunday                   130 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    21 hrs 30 mins      ████████████░░░░░░░░░░░░░   49.68 % 
-CSV                      12 hrs 48 mins      ███████░░░░░░░░░░░░░░░░░░   29.59 % 
-Python                   5 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-JavaScript               1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-HTML                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Other                    30 hrs 47 mins      ██████████████░░░░░░░░░░░   57.41 % 
+CSV                      12 hrs 48 mins      ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
+Markdown                 4 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Python                   2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+JavaScript               1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 🔥 Editors: 
-Cursor                   43 hrs 5 mins       █████████████████████████   99.57 % 
-Codex Vscode             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Cursor                   53 hrs 19 mins      █████████████████████████   99.41 % 
+Codex Vscode             18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 💻 Operating System: 
-Windows                  43 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  53 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 hrs 16 mins (100.0%)
+⏱ AI Coding Time: 53 hrs 38 mins (100.0%)
 
-✍️ 1,097 lines written by AI, 32 lines written by hand (97.17% AI-written)
+✍️ 1,270 lines written by AI, 42 lines written by hand (96.8% AI-written)
 
-🔤 80,678,950 Input Tokens, 14,430,093 Output Tokens
+🔤 107,535,308 Input Tokens, 22,438,652 Output Tokens
 
-💵 $1487.33 Estimated AI Cost This Week
+💵 $1925.02 Estimated AI Cost This Week
 
-🧠 141 AI Sessions, 663 AI Prompts
+🧠 197 AI Sessions, 812 AI Prompts
 
-GPT                      1,098 lines         █████████████████████████   100.00 % 
+GPT                      1,271 lines         █████████████████████████   100.00 % 
+Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.17% of written lines came from AI
-📝 Concise Prompter — average 147 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 3.09% of changed lines were hand-edited
+🤖 AI-Driven — 96.8% of written lines came from AI
+📝 Concise Prompter — average 169 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 4.51% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -146,7 +147,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2026 15:33:11 UTC
+ Last Updated on 26/10/2026 03:09:42 UTC
 <!--END_SECTION:waka-->
 
 
