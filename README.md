@@ -60,9 +60,9 @@ I once played coding for a long time (before the era of LLM and Agents).
 
 ### 📊 My WakaTime Coding Stats  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C383%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C383%20hrs%2018%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-614%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-632%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
@@ -81,12 +81,12 @@ I once played coding for a long time (before the era of LLM and Agents).
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   234 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-Tuesday                  250 commits         █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-Wednesday                151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Thursday                 99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-Friday                   304 commits         ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-Saturday                 176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Monday                   234 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+Tuesday                  251 commits         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+Wednesday                151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Thursday                 99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Friday                   304 commits         ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+Saturday                 176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
 Sunday                   130 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
 ```
 
@@ -97,41 +97,41 @@ Sunday                   130 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    41 hrs 57 mins      ███████████████░░░░░░░░░░   61.97 % 
-CSV                      12 hrs 48 mins      █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-Python                   7 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-Markdown                 4 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-PowerShell               39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Other                    57 hrs 42 mins      ███████████████████░░░░░░   74.39 % 
+CSV                      7 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Python                   6 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+Markdown                 4 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+PowerShell               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-Cursor                   67 hrs 23 mins      █████████████████████████   99.54 % 
-Codex Vscode             18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Cursor                   77 hrs 13 mins      █████████████████████████   99.56 % 
+Codex Vscode             20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 💻 Operating System: 
-Windows                  67 hrs 42 mins      █████████████████████████   100.00 % 
+Windows                  77 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 67 hrs 41 mins (100.0%)
+⏱ AI Coding Time: 77 hrs 34 mins (100.0%)
 
-✍️ 1,086 lines written by AI, 42 lines written by hand (96.28% AI-written)
+✍️ 1,956 lines written by AI, 42 lines written by hand (97.9% AI-written)
 
-🔤 151,176,884 Input Tokens, 34,278,750 Output Tokens
+🔤 190,136,841 Input Tokens, 41,971,225 Output Tokens
 
-💵 $2505.69 Estimated AI Cost This Week
+💵 $2953.36 Estimated AI Cost This Week
 
-🧠 242 AI Sessions, 737 AI Prompts
+🧠 285 AI Sessions, 741 AI Prompts
 
-GPT                      1,086 lines         █████████████████████████   100.00 % 
+GPT                      1,956 lines         █████████████████████████   100.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.28% of written lines came from AI
-📝 Concise Prompter — average 195 characters per prompt
+🤖 AI-Driven — 97.9% of written lines came from AI
+📝 Concise Prompter — average 221 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 5.24% of changed lines were hand-edited
+🚀 High AI Trust — 2.98% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -147,7 +147,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 17:54:11 UTC
+ Last Updated on 29/10/2026 04:20:25 UTC
 <!--END_SECTION:waka-->
 
 
