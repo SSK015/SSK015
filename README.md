@@ -81,13 +81,13 @@ I once played coding for a long time (before the era of LLM and Agents).
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   234 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-Tuesday                  255 commits         █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-Wednesday                151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+Monday                   234 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Tuesday                  256 commits         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+Wednesday                151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
 Thursday                 99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-Friday                   305 commits         ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
-Saturday                 176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Sunday                   130 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Friday                   305 commits         ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+Saturday                 176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Sunday                   130 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
 ```
 
 
@@ -97,41 +97,41 @@ Sunday                   130 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    76 hrs 2 mins       █████████████████████░░░░   84.82 % 
-Python                   6 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-Markdown                 6 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-PowerShell               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Other                    72 hrs 9 mins       █████████████████████░░░░   85.05 % 
+Python                   6 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+Markdown                 5 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+PowerShell               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Cursor                   89 hrs 23 mins      █████████████████████████   99.70 % 
-Codex Vscode             16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Cursor                   84 hrs 35 mins      █████████████████████████   99.70 % 
+Codex Vscode             15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 💻 Operating System: 
-Windows                  89 hrs 39 mins      █████████████████████████   100.00 % 
+Windows                  84 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 89 hrs 39 mins (100.0%)
+⏱ AI Coding Time: 84 hrs 50 mins (100.0%)
 
-✍️ 1,722 lines written by AI, 10 lines written by hand (99.42% AI-written)
+✍️ 1,716 lines written by AI, 10 lines written by hand (99.42% AI-written)
 
-🔤 193,185,985 Input Tokens, 43,886,490 Output Tokens
+🔤 186,364,004 Input Tokens, 41,892,646 Output Tokens
 
-💵 $3153.26 Estimated AI Cost This Week
+💵 $3022.19 Estimated AI Cost This Week
 
-🧠 283 AI Sessions, 698 AI Prompts
+🧠 271 AI Sessions, 656 AI Prompts
 
-GPT                      1,722 lines         █████████████████████████   100.00 % 
+GPT                      1,716 lines         █████████████████████████   100.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.42% of written lines came from AI
-📝 Concise Prompter — average 233 characters per prompt
+📝 Concise Prompter — average 240 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 1.43% of changed lines were hand-edited
+🚀 High AI Trust — 1.44% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -147,7 +147,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2026 16:49:09 UTC
+ Last Updated on 01/11/2026 04:19:37 UTC
 <!--END_SECTION:waka-->
 
 
