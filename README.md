@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I am currently a 2nd-year Phd Student @[**ICT, CAS**] (enrolled in Sep. 2025), major in computer systems. I am lucky to work with professor [**Chenxi Wang**](https://wangchenxi7.github.io/home/).
+- 🔭 I am currently a 2nd-year Phd Student at **UCAS** (enrolled in Sep. 2025), major in computer systems. I am lucky to work with professor [**Chenxi Wang**](https://wangchenxi7.github.io/home/).
 - 💬 I got my bachelor degree from CS school of HUST (Huazhong University of Science & Technology) in 2025.6.
 - 🌱 Learning **Operating Systems**, **Memory Management** and other interesting things about **Computer Systems**.
 - 🤔 Ask me about anything.
